@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 Estas es mi historia
 
 <bloque_1>
@@ -21,12 +21,3 @@ Linea 9
 Linea 10
 </bloque_3>
 Linea 11
-=======
-Esta es la historia de Freddy Vega
-
-Freddy Vega tiene 32 años y nació en Colombia
-
-Mañana hablaremos de su vida laboral
-
-Nuevas lineas
->>>>>>> 4b7b0025de886b9afe1c081d56f700b51e2e4ae2
