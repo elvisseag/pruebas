@@ -1,7 +1,4 @@
-﻿<<<<<<< HEAD
-Estas es mi historia
-
-<bloque_1>
+﻿<bloque_1>
 Linea 1
 Linea 2
 Linea 3
